@@ -1,0 +1,24 @@
+.getStarted-bg{
+    background-image: url("C:\Users\HP\EpimaxFrontendAssignment\src\task bg 11.jpg");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 40px;
+}
+
+.heading{
+    color: #ffffff;
+    font-size: 32px;
+    font-family: roboto;
+}
+
+.get-started-btn{
+    height: 38px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: transparent;
+    color: #ffffff;
+}
